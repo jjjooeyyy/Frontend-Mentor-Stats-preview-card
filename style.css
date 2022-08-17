@@ -33,6 +33,8 @@ body{
 
 img {
    width: 100%;
+   mix-blend-mode: multiply;
+   opacity: 0.8;
 }
 
 .text {
@@ -123,6 +125,7 @@ h3 {
   h1, .description-span{
    width: 400px;
    font-size: 28px;
+   text-align: left;
   }
 
   .description {
